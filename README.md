@@ -14,7 +14,7 @@ C:\Users\username\Project\app>npm init
 ```
 
 ```JavaScript
-{
+{ 
    "name": "reactApp",
    "version": "1.0.0",
    "description": "",
